@@ -1,0 +1,9 @@
+C:\Users\Juanez\Desktop\JHLO_Botones_Mov\JHLO_Botones_Mov\bin\Debug\JHLO_Botones_Mov.exe.config
+C:\Users\Juanez\Desktop\JHLO_Botones_Mov\JHLO_Botones_Mov\bin\Debug\JHLO_Botones_Mov.exe
+C:\Users\Juanez\Desktop\JHLO_Botones_Mov\JHLO_Botones_Mov\bin\Debug\JHLO_Botones_Mov.pdb
+C:\Users\Juanez\Desktop\JHLO_Botones_Mov\JHLO_Botones_Mov\obj\Debug\JHLO_Botones_Mov.csprojResolveAssemblyReference.cache
+C:\Users\Juanez\Desktop\JHLO_Botones_Mov\JHLO_Botones_Mov\obj\Debug\JHLO_Botones_Mov.Form1.resources
+C:\Users\Juanez\Desktop\JHLO_Botones_Mov\JHLO_Botones_Mov\obj\Debug\JHLO_Botones_Mov.Properties.Resources.resources
+C:\Users\Juanez\Desktop\JHLO_Botones_Mov\JHLO_Botones_Mov\obj\Debug\JHLO_Botones_Mov.csproj.GenerateResource.Cache
+C:\Users\Juanez\Desktop\JHLO_Botones_Mov\JHLO_Botones_Mov\obj\Debug\JHLO_Botones_Mov.exe
+C:\Users\Juanez\Desktop\JHLO_Botones_Mov\JHLO_Botones_Mov\obj\Debug\JHLO_Botones_Mov.pdb
